@@ -1,0 +1,2 @@
+train.csv
+=> 'processor_gnrtn', 'display_size'에 빈 데이터가 주입되지 않은 상태
